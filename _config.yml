@@ -23,7 +23,7 @@ repository               : "https://academicpages.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Jason.png"
+  avatar           : "jason.png"
   name             : "Jason Argall"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
